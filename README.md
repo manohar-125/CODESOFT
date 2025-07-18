@@ -26,6 +26,7 @@ Create a simple chatbot that replies to user inputs using predefined rules and p
 
 📂 File: `task1_chatbot.py`  
 📹 Demo: https://www.linkedin.com/posts/shyam-manohar-gupta-a12726230_codsoft-internship-chatbot-activity-7351947980477771777-2hR5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnFpC4BhQf1AIEeGv1NiCGPl0Zf18kbSHE
+
 🔗 #codsoft #chatbot #internship
 
 ---
